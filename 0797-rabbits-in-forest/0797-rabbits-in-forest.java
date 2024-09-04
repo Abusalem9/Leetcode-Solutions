@@ -1,19 +1,12 @@
 class Solution {
     public int numRabbits(int[] answers) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-
-        for(int i : answers){
-            map.put(i,map.getOrDefault(i,0)+1);
+        int rabbit = 0;
+        int[] count = new int[1001];
+        for(int answer : answers){
+            if(count[answer] % (answer + 1) == 0)
+                rabbit += answer + 1;
+            count[answer]++;
         }
-
-        int res = 0;
-        for(int key : map.keySet()){
-            int size = map.get(key);
-            int groupSize = key + 1;
-            int k = (int) Math.ceil(size * 1.0 / groupSize * 1.0);
-            res += k * groupSize;
-        }
-
-        return res;
+        return rabbit;
     }
 }

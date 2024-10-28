@@ -12,16 +12,16 @@ class Solution {
                 return mid;
             }
 
-            // Check if the left half is sorted
             if (nums[left] <= nums[mid]) {
+
                 if (nums[left] <= target && target < nums[mid]) {
                     right = mid - 1;
                 } else {
                     left = mid + 1;
                 }
             }
-            // Otherwise, the right half must be sorted
-            else {
+
+            if (nums[right] >= nums[mid]) {
                 if (nums[mid] < target && target <= nums[right]) {
                     left = mid + 1;
                 } else {

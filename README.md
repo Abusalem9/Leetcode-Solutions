@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1547-destination-city) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0797-rabbits-in-forest](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1547-destination-city) |
 ## Divide and Conquer
 |  |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 ## Heap (Priority Queue)
 |  |
@@ -99,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -125,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |

@@ -1,15 +1,17 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
-        int[] res = new int[nums.length];
         int n = nums.length;
-        Arrays.fill(res, -1);
         Stack<Integer> s = new Stack();
-        for (int i = 0; i < 2 * nums.length; i++) {
-            while (!s.isEmpty() && nums[i % n] > nums[s.peek()]) {
-                res[s.pop()] = nums[i % n];
+        for (int i = 2 * n; i >= 0; i--) {
+            int num = nums[i % n];
+            while (!s.isEmpty() && s.peek() <= num) {
+                s.pop();
             }
-            s.push(i % n);
+            if (i < n) {
+                nums[i] = s.isEmpty() ? -1 : s.peek();
+            }
+            s.push(num);
         }
-        return res;
+        return nums;
     }
 }

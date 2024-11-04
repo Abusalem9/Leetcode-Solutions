@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0224-basic-calculator) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0812-rotate-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |

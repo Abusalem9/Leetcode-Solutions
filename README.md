@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1940-maximum-xor-for-each-query](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1940-maximum-xor-for-each-query](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 ## Matrix
 |  |
 | ------- |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->

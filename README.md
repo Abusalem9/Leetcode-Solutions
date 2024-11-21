@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Design
 |  |
 | ------- |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-build-an-array-with-stack-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## String Matching
 |  |
 | ------- |

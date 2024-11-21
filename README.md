@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0797-rabbits-in-forest](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 ## Memoization
 |  |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
@@ -341,4 +343,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3394-minimum-array-end) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0797-rabbits-in-forest](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2752-sum-multiples) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [1610-xor-operation-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |

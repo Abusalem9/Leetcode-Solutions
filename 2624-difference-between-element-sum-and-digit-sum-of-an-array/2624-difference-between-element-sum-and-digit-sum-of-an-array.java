@@ -13,7 +13,7 @@ class Solution {
             }
         }
 
-        System.out.println(digitSum);
+        // System.out.println(digitSum);
 
         return elementSum - digitSum;
     }

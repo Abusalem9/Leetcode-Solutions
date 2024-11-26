@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2506-minimize-maximum-value-in-a-grid) |
+| [3189-find-champion-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |

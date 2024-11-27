@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |

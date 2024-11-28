@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |

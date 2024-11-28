@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1547-destination-city) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |

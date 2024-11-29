@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3247-number-of-same-end-substrings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3247-number-of-same-end-substrings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2506-minimize-maximum-value-in-a-grid) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
@@ -458,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2506-minimize-maximum-value-in-a-grid) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
@@ -468,4 +473,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->

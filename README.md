@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1803-average-waiting-time](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-build-an-array-with-stack-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1803-average-waiting-time](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |

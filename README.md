@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -444,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-build-an-array-with-stack-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2232-adding-spaces-to-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |

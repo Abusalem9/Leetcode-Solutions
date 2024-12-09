@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |

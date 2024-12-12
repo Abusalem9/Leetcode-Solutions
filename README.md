@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3226-minimum-number-game) |

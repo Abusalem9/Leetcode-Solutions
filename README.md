@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3226-minimum-number-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3247-number-of-same-end-substrings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3247-number-of-same-end-substrings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 ## Recursion
 |  |
 | ------- |
@@ -522,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 ## Simulation
 |  |
 | ------- |

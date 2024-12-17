@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0224-basic-calculator) |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0224-basic-calculator) |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |

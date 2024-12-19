@@ -596,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0787-sliding-puzzle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
@@ -629,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
@@ -644,4 +646,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->

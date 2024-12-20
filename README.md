@@ -601,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
@@ -633,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -650,8 +652,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->

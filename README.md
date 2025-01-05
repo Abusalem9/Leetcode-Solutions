@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2465-shifting-letters-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2506-minimize-maximum-value-in-a-grid) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2548-destroy-sequential-targets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2548-destroy-sequential-targets) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -562,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2358-number-of-ways-to-split-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |

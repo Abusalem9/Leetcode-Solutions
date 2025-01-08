@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3226-minimum-number-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3247-number-of-same-end-substrings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3247-number-of-same-end-substrings) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3427-special-array-ii) |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3247-number-of-same-end-substrings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3247-number-of-same-end-substrings) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3312-number-of-changing-keys) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3451-string-compression-iii) |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0812-rotate-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -747,4 +750,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->

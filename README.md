@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2128-reverse-prefix-of-word](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0812-rotate-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |

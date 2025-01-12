@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |

@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0487-max-consecutive-ones-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0487-max-consecutive-ones-ii) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -609,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2089-maximum-matrix-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
@@ -693,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |

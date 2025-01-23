@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2145-grid-game) |
@@ -708,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
+| [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1609-find-all-the-lonely-nodes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1609-find-all-the-lonely-nodes) |
 | [1876-map-of-highest-peak](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -720,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
+| [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2506-minimize-maximum-value-in-a-grid) |
 ## Graph
 |  |
@@ -753,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
+| [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1609-find-all-the-lonely-nodes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1609-find-all-the-lonely-nodes) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |

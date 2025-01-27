@@ -715,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1609-find-all-the-lonely-nodes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1609-find-all-the-lonely-nodes) |
 | [1876-map-of-highest-peak](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -735,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
+| [1558-course-schedule-iv](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -747,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2506-minimize-maximum-value-in-a-grid) |
 ## Shortest Path
@@ -768,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1609-find-all-the-lonely-nodes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1609-find-all-the-lonely-nodes) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |

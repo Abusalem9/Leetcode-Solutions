@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |

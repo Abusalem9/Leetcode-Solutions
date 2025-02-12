@@ -1,32 +1,17 @@
 class Solution {
+
     public String removeOccurrences(String s, String part) {
-        Stack<Character> stack = new Stack<>();
-        int partLen = part.length();
+        // Continue removing occurrences of 'part' as long as it exists in 's'
+        while (s.contains(part)) {
+            // Find the index of the leftmost occurrence of 'part'
+            int partStartIndex = s.indexOf(part);
 
-        for (int i = 0; i < s.length(); i++) {
-            stack.push(s.charAt(i));
-
-            if (stack.size() >= partLen) {
-                boolean isMatch = true;
-                for (int j = 0; j < partLen; j++) {
-                    if (stack.get(stack.size() - partLen + j) != part.charAt(j)) {
-                        isMatch = false;
-                        break;
-                    }
-                }
-
-
-                if (isMatch) {
-                    for (int j = 0; j < partLen; j++) {
-                        stack.pop();
-                    }
-                }
-            }
+            // Remove the substring 'part' from 's' by concatenating the segments before and after 'part'
+            s =
+                s.substring(0, partStartIndex) +
+                s.substring(partStartIndex + part.length());
         }
-        StringBuilder res = new StringBuilder();
-        for (Character c : stack) {
-            res.append(c);
-        }
-        return res.toString();
+        // Return the updated string after all occurrences are removed
+        return s;
     }
 }

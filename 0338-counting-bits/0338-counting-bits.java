@@ -3,8 +3,6 @@ class Solution {
 
         int[] dp = new int[n + 1];
         Arrays.fill(dp, 0);
-
-        int[] ans = new int[n + 1];
         int offset = 1;
         for (int i = 1; i < n + 1; i++) {
             if (offset * 2 == i) {
@@ -12,9 +10,8 @@ class Solution {
             }
 
             dp[i] = 1 + dp[i - offset];
-            ans[i] = dp[i];
         }
 
-        return ans;
+        return dp;
     }
 }

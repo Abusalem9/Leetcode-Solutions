@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0252-meeting-rooms](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0252-meeting-rooms) |
 | [0271-encode-and-decode-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0868-push-dominoes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0868-push-dominoes) |
@@ -737,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |

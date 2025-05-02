@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -666,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2145-grid-game) |

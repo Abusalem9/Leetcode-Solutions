@@ -5,12 +5,10 @@ class Solution {
         int right = nums.length - 1;
 
         while (left <= right) {
-
             int mid = left + (right - left) / 2;
 
-            if (nums[mid] == target) {
+            if (nums[mid] == target)
                 return mid;
-            }
 
             if (nums[left] <= nums[mid]) {
 
@@ -19,9 +17,7 @@ class Solution {
                 } else {
                     left = mid + 1;
                 }
-            }
-
-            if (nums[right] >= nums[mid]) {
+            } else {
                 if (nums[mid] < target && target <= nums[right]) {
                     left = mid + 1;
                 } else {

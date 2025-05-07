@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3226-minimum-number-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -690,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Design
 |  |
 | ------- |
@@ -815,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3189-find-champion-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -827,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Depth-First Search
 |  |
 | ------- |

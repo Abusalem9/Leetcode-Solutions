@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3412-permutation-difference-between-two-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
 | ------- |

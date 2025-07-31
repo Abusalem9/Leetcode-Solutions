@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0952-word-subsets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
@@ -786,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |

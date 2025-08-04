@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0487-max-consecutive-ones-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0487-max-consecutive-ones-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |

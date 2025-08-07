@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3778-transform-array-by-parity](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
 | ------- |
@@ -756,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Design
 |  |
 | ------- |

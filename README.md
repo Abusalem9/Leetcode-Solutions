@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0900-reordered-power-of-2](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -684,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0797-rabbits-in-forest](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -1021,6 +1025,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |

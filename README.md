@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -491,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0487-max-consecutive-ones-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0487-max-consecutive-ones-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -695,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1049,4 +1052,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->

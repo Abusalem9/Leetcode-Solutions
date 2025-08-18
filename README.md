@@ -697,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0679-24-game) |
+| [0728-self-dividing-numbers](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0867-new-21-game) |

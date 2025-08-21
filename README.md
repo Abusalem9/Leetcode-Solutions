@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3778-transform-array-by-parity](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -793,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Design
 |  |
 | ------- |

@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -704,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0224-basic-calculator) |
@@ -1079,4 +1081,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0826-soup-servings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0867-new-21-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

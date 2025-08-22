@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3472-bitwise-or-of-adjacent-elements) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -797,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |

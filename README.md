@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1236-n-th-tribonacci-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -735,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
@@ -759,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Interactive
 |  |

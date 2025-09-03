@@ -13,9 +13,9 @@ class Solution {
         if (sum > n || temp.size() > k || start > 9) {
             return;
         }
-        if (temp.size() + (9 - start + 1) < k) {
-            return;
-        }
+        // if (temp.size() + (9 - start + 1) < k) {
+        //     return;
+        // }
 
         temp.add(start);
         backTrack(k, n, ans, temp, start + 1, sum + start);

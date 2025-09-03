@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3226-minimum-number-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3247-number-of-same-end-substrings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3247-number-of-same-end-substrings) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3226-minimum-number-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
@@ -755,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
@@ -1103,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -1122,5 +1126,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->

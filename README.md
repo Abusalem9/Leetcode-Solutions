@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1761-count-sorted-vowel-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1893-maximum-subarray-sum-after-one-operation) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2562-count-ways-to-build-good-strings) |
@@ -747,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1642-water-bottles) |
+| [1761-count-sorted-vowel-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
@@ -1123,6 +1125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [1761-count-sorted-vowel-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 ## Geometry
 |  |
 | ------- |

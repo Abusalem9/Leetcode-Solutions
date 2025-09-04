@@ -1,24 +1,19 @@
 class Solution {
     public int rob(int[] nums) {
-        int n = nums.length;
-        if (n == 1) {
-            return nums[0];
-        }
-
-        return Math.max(helper(nums, 0, n - 1), helper(nums, 1, n));
-
+        if(nums.length == 1) return nums[0];
+        return Math.max(helper(nums, 0, nums.length - 1), helper(nums, 1, nums.length));
     }
 
-    int helper(int[] nums, int start, int end) {
-        int rob1 = 0;
-        int rob2 = 0;
+    public int helper(int[] nums, int k, int m) {
+        int first = 0;
+        int second = 0;
 
-        for (int i = start; i < end; i++) {
-            int temp = rob2;
-            rob2 = Math.max(rob2, nums[i] + rob1);
-            rob1 = temp;
+        for (int i = k; i < m; i++) {
+            int temp = Math.max(nums[i] + first, second);
+            first = second;
+            second = temp;
         }
 
-        return rob2;
+        return second;
     }
 }

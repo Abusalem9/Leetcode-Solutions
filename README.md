@@ -765,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3830-find-closest-person](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 ## Memoization
 |  |
 | ------- |

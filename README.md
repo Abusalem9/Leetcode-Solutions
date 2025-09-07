@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -749,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |

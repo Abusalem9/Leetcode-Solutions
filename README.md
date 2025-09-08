@@ -752,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1642-water-bottles) |

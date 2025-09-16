@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -644,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -773,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1610-xor-operation-in-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1761-count-sorted-vowel-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
@@ -954,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2491-smallest-even-multiple](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 ## Breadth-First Search
 |  |

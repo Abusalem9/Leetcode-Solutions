@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3226-minimum-number-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3247-number-of-same-end-substrings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3247-number-of-same-end-substrings) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3247-number-of-same-end-substrings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3247-number-of-same-end-substrings) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2548-destroy-sequential-targets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2548-destroy-sequential-targets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3247-number-of-same-end-substrings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3247-number-of-same-end-substrings) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |

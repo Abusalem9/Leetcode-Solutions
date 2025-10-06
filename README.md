@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
@@ -440,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2023-design-movie-rental-system) |
@@ -517,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -882,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -1017,6 +1021,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
@@ -1035,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |
 | [1396-count-servers-that-communicate](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -1082,6 +1088,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0794-swim-in-rising-water](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1347-distance-to-a-cycle-in-undirected-graph](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1347-distance-to-a-cycle-in-undirected-graph) |

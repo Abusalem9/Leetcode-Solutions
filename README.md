@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -747,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -951,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |

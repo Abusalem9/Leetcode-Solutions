@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1755-defuse-the-bomb) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1761-count-sorted-vowel-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1893-maximum-subarray-sum-after-one-operation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1893-maximum-subarray-sum-after-one-operation) |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -740,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-destination-city](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |

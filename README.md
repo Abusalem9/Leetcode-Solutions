@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2509-minimize-xor](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -551,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -570,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3827-implement-router](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Sliding Window
@@ -596,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2868-continuous-subarrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -881,6 +886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2465-shifting-letters-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3247-number-of-same-end-substrings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3247-number-of-same-end-substrings) |

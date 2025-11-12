@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2868-continuous-subarrays) |
@@ -849,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2752-sum-multiples) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -1044,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2491-smallest-even-multiple](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Breadth-First Search
 |  |
 | ------- |

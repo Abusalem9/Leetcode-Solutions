@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2625-increment-submatrices-by-one](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -899,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-range-product-queries-of-powers](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3247-number-of-same-end-substrings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3247-number-of-same-end-substrings) |
@@ -930,6 +932,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2506-minimize-maximum-value-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2506-minimize-maximum-value-in-a-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |

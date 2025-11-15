@@ -614,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Queue
 |  |
@@ -803,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3451-string-compression-iii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3797-design-spreadsheet](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -1249,6 +1251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Doubly-Linked List
 |  |

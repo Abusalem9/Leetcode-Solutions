@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3577-convert-doubly-linked-list-to-array-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3577-convert-doubly-linked-list-to-array-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3668-restore-finishing-order](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3412-permutation-difference-between-two-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3668-restore-finishing-order](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3678-design-task-manager](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |

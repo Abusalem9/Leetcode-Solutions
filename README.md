@@ -682,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3794-reverse-string-prefix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -834,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3794-reverse-string-prefix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3797-design-spreadsheet](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math

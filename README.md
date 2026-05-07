@@ -835,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3797-design-spreadsheet](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1043,6 +1044,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching

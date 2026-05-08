@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3472-bitwise-or-of-adjacent-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3472-bitwise-or-of-adjacent-elements) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -904,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3462-vowels-game-in-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3830-find-closest-person) |

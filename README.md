@@ -910,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 ## Memoization
 |  |

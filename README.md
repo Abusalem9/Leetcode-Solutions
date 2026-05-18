@@ -779,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0812-rotate-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0868-push-dominoes) |
@@ -871,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0679-24-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
@@ -1037,6 +1039,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |

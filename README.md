@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -863,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -971,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |

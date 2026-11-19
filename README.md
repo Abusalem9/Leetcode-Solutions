@@ -786,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0812-rotate-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/0868-push-dominoes) |

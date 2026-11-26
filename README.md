@@ -924,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3462-vowels-game-in-a-string](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1075,6 +1076,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Abusalem9/Leetcode-Solutions/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
